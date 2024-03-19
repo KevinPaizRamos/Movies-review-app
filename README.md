@@ -1,0 +1,1 @@
+Cinematic Explorer is an innovative movie review and exploration platform designed to enhance the user experience in discovering and engaging with films. Developed using Java Spring Boot for the backend, MongoDB for the database, and React for the frontend, this project offers a robust and interactive environment for movie enthusiasts.
